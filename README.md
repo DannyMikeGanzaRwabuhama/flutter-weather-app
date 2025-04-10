@@ -45,3 +45,24 @@ assets/
 ├── rainy.json
 ├── thunder.json
 └── screenshot.png
+
+```
+
+## 🚀 Getting Started
+
+```bash
+flutter pub get
+flutter run
+```
+
+> Make sure to add your `OPENWEATHER_API_KEY` in the `weather_page.dart` file!
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+## 📜 License
+
+MIT
+
+---
